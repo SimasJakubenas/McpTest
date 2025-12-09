@@ -1,4 +1,4 @@
-namespace yourServerName.Models;
+namespace McpTest.Models;
 
 /// <summary>
 /// Configuration settings for connecting to a Progress Application Server (PASOE) instance.

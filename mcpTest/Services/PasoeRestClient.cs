@@ -1,12 +1,12 @@
 using System.Net;
 using System.Net.Http.Headers;
 using System.Text;
-using yourServerName.Models;
+using McpTest.Models;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
 
-namespace yourServerName.Services;
+namespace McpTest.Services;
 
 /// <summary>
 /// Service for communicating with PASOE REST endpoints.

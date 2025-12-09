@@ -1,4 +1,4 @@
-namespace yourServerName.Models;
+namespace McpTest.Models;
 
 /// <summary>
 /// Represents a response from a PASOE REST service call.

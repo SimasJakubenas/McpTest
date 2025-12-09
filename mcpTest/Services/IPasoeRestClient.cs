@@ -1,7 +1,7 @@
-using yourServerName.Models; 
+using McpTest.Models; 
 
 
-namespace yourServerName.Services;
+namespace McpTest.Services;
 
 /// <summary>
 /// Interface for PASOE REST client service.
