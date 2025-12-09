@@ -1,0 +1,16 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Debug",
+      "Microsoft": "Warning"
+    }
+  },
+  "Pasoe": {
+    "BaseUrl": "http://localhost:8810",
+    "WebAppName": "Customers",
+    "Username": "",
+    "Password": "",
+    "TimeoutSeconds": 60,
+    "AcceptInvalidSslCertificates": true
+  }
+}
