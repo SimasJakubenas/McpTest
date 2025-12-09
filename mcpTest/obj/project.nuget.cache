@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tcCBkWjG9HU=",
+  "dgSpecHash": "k/ePHlbRRy8=",
   "success": true,
   "projectFilePath": "C:\\Users\\sjakubenas\\projects\\McpTest\\mcpTest\\mcpTest.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\sjakubenas\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.0\\microsoft.extensions.filesystemglobbing.10.0.0.nupkg.sha512",
     "C:\\Users\\sjakubenas\\.nuget\\packages\\microsoft.extensions.hosting\\10.0.0\\microsoft.extensions.hosting.10.0.0.nupkg.sha512",
     "C:\\Users\\sjakubenas\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\10.0.0\\microsoft.extensions.hosting.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\sjakubenas\\.nuget\\packages\\microsoft.extensions.http\\10.0.0\\microsoft.extensions.http.10.0.0.nupkg.sha512",
     "C:\\Users\\sjakubenas\\.nuget\\packages\\microsoft.extensions.logging\\10.0.0\\microsoft.extensions.logging.10.0.0.nupkg.sha512",
     "C:\\Users\\sjakubenas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
     "C:\\Users\\sjakubenas\\.nuget\\packages\\microsoft.extensions.logging.configuration\\10.0.0\\microsoft.extensions.logging.configuration.10.0.0.nupkg.sha512",
