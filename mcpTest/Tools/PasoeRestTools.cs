@@ -20,7 +20,7 @@ public class PasoeRestTools
     [McpServerTool]
     [Description("Calls a PASOE REST service endpoint with the specified parameters.")]
     public async Task<string> CallPasoeService(
-        [Description("The service path (e.g., '/rest/MyService/MyMethod')")] string servicePath,
+        [Description("The service path (e.g., '/rest/CustomersService/MyMethod')")] string servicePath,
         [Description("HTTP method: GET, POST, PUT, DELETE (default: POST)")] string httpMethod = "POST",
         [Description("Request body as JSON string (optional)")] string? requestBody = null,
         [Description("Additional headers as JSON object (optional, e.g., '{\"X-Custom-Header\": \"value\"}')")] string? headers = null)
@@ -106,7 +106,7 @@ public class PasoeRestTools
     [McpServerTool]
     [Description("Makes a GET request to retrieve data from a PASOE REST service.")]
     public async Task<string> GetPasoeData(
-        [Description("The service path (e.g., '/rest/MyService/Customer')")] string servicePath,
+        [Description("The service path (e.g., '/rest/CustomersService/Customer')")] string servicePath,
         [Description("Query parameters as JSON object (optional, e.g., '{\"id\": \"123\"}')")] string? queryParams = null)
     {
         try
@@ -159,7 +159,7 @@ public class PasoeRestTools
     [McpServerTool]
     [Description("Makes a POST request to invoke an ABL procedure or create data in PASOE.")]
     public async Task<string> InvokePasoeMethod(
-        [Description("The service path (e.g., '/rest/MyService/Customer')")] string servicePath,
+        [Description("The service path (e.g., '/rest/CustomersService/Customer')")] string servicePath,
         [Description("Request payload as JSON string")] string requestPayload)
     {
         try
@@ -201,7 +201,7 @@ public class PasoeRestTools
     [McpServerTool]
     [Description("Makes a PUT request to update data in PASOE.")]
     public async Task<string> UpdatePasoeData(
-        [Description("The service path (e.g., '/rest/MyService/Customer/123')")] string servicePath,
+        [Description("The service path (e.g., '/rest/CustomersService/Customer/123')")] string servicePath,
         [Description("Update payload as JSON string")] string requestPayload)
     {
         try
@@ -243,7 +243,7 @@ public class PasoeRestTools
     [McpServerTool]
     [Description("Makes a DELETE request to remove data in PASOE.")]
     public async Task<string> DeletePasoeData(
-        [Description("The service path (e.g., '/rest/MyService/Customer/123')")] string servicePath)
+        [Description("The service path (e.g., '/rest/CustomersService/Customer/123')")] string servicePath)
     {
         try
         {

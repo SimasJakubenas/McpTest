@@ -1,0 +1,4 @@
+C:\Users\sjakubenas\projects\McpTest\mcpTest\bin\Debug\net10.0\win-x64\publish\mcpTest.pdb
+C:\Users\sjakubenas\projects\McpTest\mcpTest\bin\Debug\net10.0\win-x64\publish\appsettings.json
+C:\Users\sjakubenas\projects\McpTest\mcpTest\bin\Debug\net10.0\win-x64\publish\appsettings.Development.json
+C:\Users\sjakubenas\projects\McpTest\mcpTest\bin\Debug\net10.0\win-x64\publish\mcpTest.exe

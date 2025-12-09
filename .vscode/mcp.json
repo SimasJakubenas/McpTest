@@ -1,10 +1,10 @@
 {
   "servers": {
-    "mcprest": {
+    "mcptest": {
       "type": "stdio",
-      "command": "c:\\Users\\sjakubenas\\projects\\McpTest\\mcpTest\\bin\\Debug\\net10.0\\win-x64\\mcprest.exe",
+      "command": "C:\\Users\\sjakubenas\\projects\\McpTest\\mcpTest\\bin\\Debug\\net10.0\\win-x64\\mcpTest.exe",
       "args": [],
-      "cwd": "c:\\Users\\sjakubenas\\projects\\McpTest\\mcpTest\\bin\\Debug\\net10.0\\win-x64",
+      "cwd": "C:\\Users\\sjakubenas\\projects\\McpTest\\mcpTest\\bin\\Debug\\net10.0\\win-x64",
       "env": {
         "DOTNET_ENVIRONMENT": "Development"
       }
