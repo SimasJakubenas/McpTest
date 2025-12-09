@@ -233,3 +233,7 @@ C:\Users\sjakubenas\projects\McpTest\mcpTest\obj\Debug\net10.0\win-x64\refint\mc
 C:\Users\sjakubenas\projects\McpTest\mcpTest\obj\Debug\net10.0\win-x64\mcpTest.pdb
 C:\Users\sjakubenas\projects\McpTest\mcpTest\obj\Debug\net10.0\win-x64\mcpTest.genruntimeconfig.cache
 C:\Users\sjakubenas\projects\McpTest\mcpTest\obj\Debug\net10.0\win-x64\ref\mcpTest.dll
+C:\Users\sjakubenas\projects\McpTest\mcpTest\bin\Debug\net10.0\win-x64\appsettings.json
+C:\Users\sjakubenas\projects\McpTest\mcpTest\bin\Debug\net10.0\win-x64\appsettings.Development.json
+C:\Users\sjakubenas\projects\McpTest\mcpTest\bin\Debug\net10.0\win-x64\Microsoft.Extensions.Http.dll
+C:\Users\sjakubenas\projects\McpTest\mcpTest\obj\Debug\net10.0\win-x64\mcpTest.sourcelink.json
